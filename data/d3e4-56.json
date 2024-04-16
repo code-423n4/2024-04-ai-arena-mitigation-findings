@@ -1,0 +1,8 @@
+{
+  "contest": 360,
+  "handle": "d3e4",
+  "risk": "2",
+  "title": "Element and weight correlation when `numElements` is multiple of 31",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2024-04-ai-arena-mitigation-findings/issues/56"
+}
