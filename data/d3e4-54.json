@@ -1,0 +1,8 @@
+{
+  "contest": 360,
+  "handle": "d3e4",
+  "risk": "2",
+  "title": "User influence on DNA via `fighters.length` in `mintFromMergingPool()` (unmitigated issue 3. grouped under M-05)",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-04-ai-arena-mitigation-findings/issues/54"
+}
